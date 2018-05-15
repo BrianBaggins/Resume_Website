@@ -1,0 +1,13 @@
+.social{
+	width: 40px;
+	height: 40px;
+	border-radius: 10px;
+	padding-top: 5px;
+}
+.selfie{
+	width: 400px;
+	height: 350px;
+	margin-right: 150px;
+	margin-top: 85px;
+	border-radius: 10px;
+}
